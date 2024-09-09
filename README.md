@@ -47,7 +47,7 @@ Cada archivo de JavaScript en este repositorio contiene un TODO que deberás res
 
 Ejemplo:
 ```bash
-// TODO: Implementar la función `saludar` que reciba un nombre y retorne un saludo personalizado.
+// TODO: Resolver
 ```
 
 Sigue las instrucciones dentro de cada archivo para resolver el ejercicio. Asegúrate de probar tu código y verificar que funcione correctamente antes de hacer nuevos commits.
